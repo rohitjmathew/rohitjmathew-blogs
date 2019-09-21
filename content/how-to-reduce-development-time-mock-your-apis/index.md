@@ -95,5 +95,3 @@ _I really hope that you find this article useful. I invite you to participate in
 _Thanks for reading! :)_
 
 _P.S Do feel free to connect with me on_ [_LinkedIn_](https://www.linkedin.com/in/rohitjmathew)
-
-

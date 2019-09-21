@@ -22,7 +22,10 @@ function Bio() {
             author
             shortBio
             social {
-              twitter
+              twitter,
+              medium,
+              github,
+              linkedin
             }
           }
         }

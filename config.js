@@ -7,18 +7,18 @@ module.exports = {
   // It should complete the sentence: Written by Rohit Jacob Mathew ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
-  bio: `SDE @helloturtlemint and Former SDE Intern @HackerRank. An Eccentric Coder, Musician/Beatboxer and a big football fan. Catch up: https://www.rohitjmathew.space/.`,
+  bio: `SDE Turtlemint and Former SDE Intern HackerRank.`,
   author: 'Rohit Jacob Mathew',
   githubUrl: 'https://github.com/rohitjmathew/rohitjmathew-blogs',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://rohitjmathew.space',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
     medium: '@rohitjmathew',
     facebook: '',
-    github: '',
-    linkedin: '',
+    github: 'rohitjmathew',
+    linkedin: 'rohitjmathew',
     instagram: '',
   },
 }
